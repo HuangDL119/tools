@@ -1,0 +1,33 @@
+*.class
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# Eclipse
+.project
+.classpath
+.settings
+.metadata
+.recommenders
+
+# Gradle
+.gradle
+
+# Idea
+/.idea/
+*.iml
+*.iws
+*.ipr
+
+# OS
+Thumbs.db
+.DS_Store
+
+bin/
+target/
+build/
+out/
+logs/
+/bin/
+
